@@ -1,15 +1,60 @@
-# 💫 About Me:
-🚀 Senior DevOps & Cloud Engineer with 10+ years of experience in designing, automating, and operating scalable cloud-native platforms.<br><br>🔧 I’m currently working on<br><br>Azure & Kubernetes (AKS) production-grade deployments<br><br>CI/CD pipelines using GitHub Actions & Azure DevOps<br><br>Infrastructure as Code with Terraform & Terragrunt<br><br>Secure cloud architectures (Private Endpoints, RBAC, MSI, DevSecOps)<br><br>🤝 I’m looking to collaborate on<br><br>Cloud-native & Kubernetes projects<br><br>DevOps / Platform Engineering initiatives<br><br>CI/CD optimization & cloud cost efficiency<br><br>AI-assisted DevOps & MLOps workflows<br><br>🧠 I’m looking for help with<br><br>Advanced MLOps patterns<br><br>Kubernetes GPU workloads & AI infrastructure<br><br>Large-scale distributed system optimization<br><br>🌱 I’m currently learning<br><br>MLOps (Model lifecycle, monitoring, deployment)<br><br>AI-driven DevOps & intelligent automation<br><br>Advanced Kubernetes security & scalability patterns<br><br>💬 Ask me about<br><br>Azure | AKS | Kubernetes<br><br>Terraform | Terragrunt | IaC<br><br>CI/CD (GitHub Actions, Azure DevOps)<br><br>Cloud networking & security best practices<br><br>⚡ Fun fact<br><br>I love simplifying complex cloud architectures using real-world analogies<br><br>Strong believer in “automation first, scale later”<br><br>📍 Location: UAE<br>📬 Open to DevOps / Cloud / Platform Engineering roles
+# 👋 Hi, I'm Rajesh Mishra
 
+🚀 **Senior DevOps & Cloud Engineer** with **10+ years** of experience in building, automating, and operating **secure, scalable cloud-native platforms**.
 
-# 💻 Tech Stack:
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rrajeshkm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rrajeshkm&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rrajeshkm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🔹 **Core focus:** Azure • Kubernetes (AKS) • Terraform • CI/CD • DevSecOps  
+📍 **Location:** UAE  
+📬 **Open to:** DevOps / Cloud / Platform Engineering roles
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rrajeshkm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔧 What I Work On
+- Azure & AKS **production-grade deployments**
+- CI/CD pipelines (**GitHub Actions, Azure DevOps**)
+- Infrastructure as Code (**Terraform, Terragrunt**)
+- Secure cloud architectures (**Private Endpoints, RBAC, MSI**)
+
+---
+
+## 🤝 Open to Collaborate
+- Cloud-native & Kubernetes projects  
+- Platform / DevOps engineering initiatives  
+- CI/CD optimization & cloud cost efficiency  
+- AI-assisted DevOps & MLOps workflows  
+
+---
+
+## 🌱 Currently Learning
+- MLOps (model lifecycle, monitoring, deployment)
+- AI-driven DevOps & intelligent automation
+- Advanced Kubernetes security & scalability patterns
+
+---
+
+## 💬 Ask Me About
+Azure • AKS • Kubernetes • Terraform • CI/CD • Cloud Security
+
+⚡ *I love simplifying complex cloud architectures using real-world analogies.*  
+🔁 *Believer in **automation first, scale later***.
+
+---
+
+## 💻 Tech Stack
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=flat-square&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=flat-square&logo=ansible&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![](https://nirzak-streak-stats.vercel.app/?user=rrajeshkm&theme=dark&hide_border=false)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=rrajeshkm&icon=0&color=0)
