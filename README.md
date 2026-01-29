@@ -64,4 +64,5 @@ Azure • AKS • Kubernetes • Terraform • CI/CD • Cloud Networking & Secu
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=rrajeshkm&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=rrajeshkm&label=Profile%20Views&color=0e75b6&style=flat)
+
