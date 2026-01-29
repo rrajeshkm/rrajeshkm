@@ -60,9 +60,10 @@ Azure • AKS • Kubernetes • Terraform • CI/CD • Cloud Networking & Secu
 ---
 
 ## 📊 GitHub Activity
-![](https://nirzak-streak-stats.vercel.app/?user=rrajeshkm&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rrajeshkm&theme=dark&hide_border=false" />
+</p>
+
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=rrajeshkm&label=Profile%20Views&color=0e75b6&style=flat)
 
